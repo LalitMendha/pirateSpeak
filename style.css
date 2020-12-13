@@ -1,0 +1,26 @@
+body {
+    background-image: url("/image/pirate.jpg");
+    background-color: white;
+}
+
+.container {
+    margin: auto;
+    padding: 1rem;
+    color:red;
+    text-align: center;
+}
+
+.container textarea {
+    padding: 1rem;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 30%;
+} 
+
+.container button {
+    display: block;
+    margin-left: 55%;
+    background-color: red;
+    padding: 1rem;
+}
