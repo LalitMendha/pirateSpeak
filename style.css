@@ -13,6 +13,9 @@ body {
 .container textarea {
     padding: 1rem;
     color: red;
+    text-align: center;
+    font-size: 20px;
+    max-width: 60%;
     font-style: italic;
     font-weight: bold;
     margin-left: 30%;
